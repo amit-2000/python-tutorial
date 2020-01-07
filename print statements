@@ -1,0 +1,16 @@
+# Print statements and escape sequences.
+#  1. use  end=" " ,,,, to connet two print statements  on a single line.
+
+print("1. hello baby ,", end=" ")
+print("hey sweet heart")
+
+#  2. use of escape sequences ,,,,,,,\n= next line  & \t for tab.
+
+print("2. hello my boy \n hey dady")
+print("3. hello my boy \t hey dady")
+
+# To print something  multiple times
+print(10*"4.hello\n")
+
+# RUN CODE IN TERMINAL...
+    
